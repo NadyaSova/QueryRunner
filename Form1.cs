@@ -108,7 +108,7 @@ namespace QuerySaver
 
         private void btn24hours_Click(object sender, EventArgs e)
         {
-            PopulateDateRange(23);
+            PopulateDateRange(24);
         }
 
         private void btn36hours_Click(object sender, EventArgs e)
